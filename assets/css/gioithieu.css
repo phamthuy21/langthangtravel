@@ -1,0 +1,40 @@
+p {
+  color: #2d4271;
+}
+
+h1 {
+  color: #2d4271;
+}
+
+h2 {
+  color: #2d4271;
+  font-weight: 700;
+}
+
+h5 {
+  align-items: center;
+  justify-content: center;
+  color: #2d4271;
+}
+
+a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+.copy-right {
+  border-top: 1px solid #7d8fab;
+  padding: 20px 0 0;
+  font-size: 13px;
+}
+
+.img-cont {
+  border-radius: 10px;
+}
+.bg {
+  background: url(https://cf.shopee.vn/file/87c49bd13b74a7c6dcc4f57f8613cbfe)
+    center top / 100% repeat-y;
+  padding: 50%;
+  position: absolute;
+  margin-top: 62px;
+  background-color: #f5f5dc5e;
+}
